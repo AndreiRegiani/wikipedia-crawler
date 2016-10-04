@@ -4,12 +4,13 @@ Extracts plain-text from series of Wikipedia articles and saves to a local text 
 The goal is to have text samples of a specific language on a specific topic, that can be used on computer analysis applied to linguistics (word frequency, distribution, etc), **or to generate wordlists of any language on Wikipedia (294 in total)**.
 
 ## Usage:
-
-    python3 wikipedia-crawler.py https://en.wikipedia.org/wiki/Biology
-
-Creates `output.txt`, extracting only this single article.
-
-    python3 wikipedia-crawler.py https://en.wikipedia.org/wiki/Biology --articles=10 --interval=5 --output=biology.txt
+```
+python3 wikipedia-crawler.py https://en.wikipedia.org/wiki/Biology
+```
+Creates `output.txt`, extracting only this single article. **Parameters:**
+```
+--articles=10 --interval=5 --output=biology.txt
+```
 
 Creates `biology.txt`, crawling `10` articles related to `Biology`. Requests interval set to `5` seconds (default).
 Session log containing all visited URLs is saved as `session_biology.txt`.
