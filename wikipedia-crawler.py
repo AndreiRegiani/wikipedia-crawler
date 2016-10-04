@@ -56,14 +56,16 @@ def scrap(base_url, article, output_file, session_file):
             continue
         pending_urls.append(href)
 
-    citations_regex = re.compile('\[.+?\]')  # [1], [2], [3], ... to be removed
+    parenthesis_regex = re.compile('\(.+?\)')  # to remove parenthesis content
+    citations_regex = re.compile('\[.+?\]')  # to remove citations, e.g. [1]
 
     # get plain text from each <p>
     p_list = content.find_all('p')
     with open(output_file, 'a') as fout:
         for p in p_list:
-            text = p.get_text()
-            text = citations_regex.sub('', text)  # remove citations from text
+            text = p.get_text().strip()
+            text = parenthesis_regex.sub('', text)
+            text = citations_regex.sub('', text)
             if text:
                 fout.write(text + '\n\n')  # extra line between paragraphs
 

@@ -1,0 +1,402 @@
+Biology is a natural science concerned with the study of life and living organisms, including their structure, function, growth, evolution, distribution, identification and taxonomy. Modern biology is a vast and eclectic field, composed of many branches and subdisciplines. However, despite the broad scope of biology, there are certain general and unifying concepts within it that govern all study and research, consolidating it into single, coherent field. In general, biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, and evolution as the engine that propels the synthesis and creation of new species. It is also understood today that all the organisms survive by consuming and transforming energy and by regulating their internal environment to maintain a stable and vital condition known as homeostasis.
+
+Sub-disciplines of biology are defined by the scale at which organisms are studied, the kinds of organisms studied, and the methods used to study them: biochemistry examines the rudimentary chemistry of life; molecular biology studies the complex interactions among biological molecules; botany studies the biology of plants; cellular biology examines the basic building-block of all life, the cell; physiology examines the physical and chemical functions of tissues, organs, and organ systems of an organism; evolutionary biology examines the processes that produced the diversity of life; and ecology examines how organisms interact in their environment.
+
+The term biology is derived from the Greek word βίος, bios, "life" and the suffix -λογία, -logia, "study of." The Latin-language form of the term first appeared in 1736 when Swedish scientist Carl Linnaeus  used biologi in his Bibliotheca botanica. It was used again in 1766 in a work entitled Philosophiae naturalis sive physicae: tomus III, continens geologian, biologian, phytologian generalis, by Michael Christoph Hanov, a disciple of Christian Wolff. The first German use, Biologie, was in a 1771 translation of Linnaeus' work. In 1797, Theodor Georg August Roose used the term in the preface of a book, Grundzüge der Lehre van der Lebenskraft. Karl Friedrich Burdach used the term in 1800 in a more restricted sense of the study of human beings from a morphological, physiological and psychological perspective . The term came into its modern usage with the six-volume treatise Biologie, oder Philosophie der lebenden Natur  by Gottfried Reinhold Treviranus, who announced:
+
+Although modern biology is a relatively recent development, sciences related to and included within it have been studied since ancient times. Natural philosophy was studied as early as the ancient civilizations of Mesopotamia, Egypt, the Indian subcontinent, and China. However, the origins of modern biology and its approach to the study of nature are most often traced back to ancient Greece. While the formal study of medicine dates back to Hippocrates , it was Aristotle  who contributed most extensively to the development of biology. Especially important are his History of Animals and other works where he showed naturalist leanings, and later more empirical works that focused on biological causation and the diversity of life. Aristotle's successor at the Lyceum, Theophrastus, wrote a series of books on botany that survived as the most important contribution of antiquity to the plant sciences, even into the Middle Ages.
+
+Scholars of the medieval Islamic world who wrote on biology included al-Jahiz , Al-Dīnawarī , who wrote on botany, and Rhazes  who wrote on anatomy and physiology. Medicine was especially well studied by Islamic scholars working in Greek philosopher traditions, while natural history drew heavily on Aristotelian thought, especially in upholding a fixed hierarchy of life.
+
+Biology began to quickly develop and grow with Anton van Leeuwenhoek's dramatic improvement of the microscope. It was then that scholars discovered spermatozoa, bacteria, infusoria and the diversity of microscopic life. Investigations by Jan Swammerdam led to new interest in entomology and helped to develop the basic techniques of microscopic dissection and staining.
+
+Advances in microscopy also had a profound impact on biological thinking. In the early 19th century, a number of biologists pointed to the central importance of the cell. Then, in 1838, Schleiden and Schwann began promoting the now universal ideas that  the basic unit of organisms is the cell and  that individual cells have all the characteristics of life, although they opposed the idea that  all cells come from the division of other cells. Thanks to the work of Robert Remak and Rudolf Virchow, however, by the 1860s most biologists accepted all three tenets of what came to be known as cell theory.
+
+Meanwhile, taxonomy and classification became the focus of natural historians. Carl Linnaeus published a basic taxonomy for the natural world in 1735 , and in the 1750s introduced scientific names for all his species. Georges-Louis Leclerc, Comte de Buffon, treated species as artificial categories and living forms as malleable—even suggesting the possibility of common descent. Though he was opposed to evolution, Buffon is a key figure in the history of evolutionary thought; his work influenced the evolutionary theories of both Lamarck and Darwin.
+
+Serious evolutionary thinking originated with the works of Jean-Baptiste Lamarck, who was the first to present a coherent theory of evolution. He posited that evolution was the result of environmental stress on properties of animals, meaning that the more frequently and rigorously an organ was used, the more complex and efficient it would become, thus adapting the animal to its environment. Lamarck believed that these acquired traits could then be passed on to the animal's offspring, who would further develop and perfect them. However, it was the British naturalist Charles Darwin, combining the biogeographical approach of Humboldt, the uniformitarian geology of Lyell, Malthus's writings on population growth, and his own morphological expertise and extensive natural observations, who forged a more successful evolutionary theory based on natural selection; similar reasoning and evidence led Alfred Russel Wallace to independently reach the same conclusions. Although it was the subject of controversy , Darwin's theory quickly spread through the scientific community and soon became a central axiom of the rapidly developing science of biology.
+
+The discovery of the physical representation of heredity came along with evolutionary principles and population genetics. In the 1940s and early 1950s, experiments pointed to DNA as the component of chromosomes that held the trait-carrying units that had become known as genes. A focus on new kinds of model organisms such as viruses and bacteria, along with the discovery of the double helical structure of DNA in 1953, marked the transition to the era of molecular genetics. From the 1950s to present times, biology has been vastly extended in the molecular domain. The genetic code was cracked by Har Gobind Khorana, Robert W. Holley and Marshall Warren Nirenberg after DNA was understood to contain codons. Finally, the Human Genome Project was launched in 1990 with the goal of mapping the general human genome. This project was essentially completed in 2003, with further analysis still being published. The Human Genome Project was the first step in a globalized effort to incorporate accumulated knowledge of biology into a functional, molecular definition of the human body and the bodies of other organisms.
+
+Cell theory states that the cell is the fundamental unit of life, and that all living things are composed of one or more cells or the secreted products of those cells . All cells arise from other cells through cell division. In multicellular organisms, every cell in the organism's body derives ultimately from a single cell in a fertilized egg. The cell is also considered to be the basic unit in many pathological processes. In addition, the phenomenon of energy flow occurs in cells in processes that are part of the function known as metabolism. Finally, cells contain hereditary information , which is passed from cell to cell during cell division.
+
+A central organizing concept in biology is that life changes and develops through evolution, and that all life-forms known have a common origin. The theory of evolution postulates that all organisms on the Earth, both living and extinct, have descended from a common ancestor or an ancestral gene pool. This last universal common ancestor of all organisms is believed to have appeared about 3.5 billion years ago. Biologists generally regard the universality and ubiquity of the genetic code as definitive evidence in favor of the theory of universal common descent for all bacteria, archaea, and eukaryotes .
+
+Introduced into the scientific lexicon by Jean-Baptiste de Lamarck in 1809, evolution was established by Charles Darwin fifty years later as a viable scientific model when he articulated its driving force: natural selection.  Evolution is now used to explain the great variations of life found on Earth.
+
+Darwin theorized that species and breeds developed through the processes of natural selection and artificial selection or selective breeding. Genetic drift was embraced as an additional mechanism of evolutionary development in the modern synthesis of the theory.
+
+The evolutionary history of the species—which describes the characteristics of the various species from which it descended—together with its genealogical relationship to every other species is known as its phylogeny. Widely varied approaches to biology generate information about phylogeny. These include the comparisons of DNA sequences conducted within molecular biology or genomics, and comparisons of fossils or other records of ancient organisms in paleontology. Biologists organize and analyze evolutionary relationships through various methods, including phylogenetics, phenetics, and cladistics. 
+
+Genes are the primary units of inheritance in all organisms. A gene is a unit of heredity and corresponds to a region of DNA that influences the form or function of an organism in specific ways. All organisms, from bacteria to animals, share the same basic machinery that copies and translates DNA into proteins. Cells transcribe a DNA gene into an RNA version of the gene, and a ribosome then translates the RNA into a protein, a sequence of amino acids. The translation code from RNA codon to amino acid is the same for most organisms, but slightly different for some. For example, a sequence of DNA that codes for insulin in humans also codes for insulin when inserted into other organisms, such as plants.
+
+DNA usually occurs as linear chromosomes in eukaryotes, and circular chromosomes in prokaryotes. A chromosome is an organized structure consisting of DNA and histones. The set of chromosomes in a cell and any other hereditary information found in the mitochondria, chloroplasts, or other locations is collectively known as its genome. In eukaryotes, genomic DNA is located in the cell nucleus, along with small amounts in mitochondria and chloroplasts. In prokaryotes, the DNA is held within an irregularly shaped body in the cytoplasm called the nucleoid. The genetic information in a genome is held within genes, and the complete assemblage of this information in an organism is called its genotype.
+
+Homeostasis is the ability of an open system to regulate its internal environment to maintain stable conditions by means of multiple dynamic equilibrium adjustments controlled by interrelated regulation mechanisms. All living organisms, whether unicellular or multicellular, exhibit homeostasis.
+
+To maintain dynamic equilibrium and effectively carry out certain functions, a system must detect and respond to perturbations. After the detection of a perturbation, a biological system normally responds through negative feedback. This means stabilizing conditions by either reducing or increasing the activity of an organ or system. One example is the release of glucagon when sugar levels are too low.
+
+The survival of a living organism depends on the continuous input of energy. Chemical reactions that are responsible for its structure and function are tuned to extract energy from substances that act as its food and transform them to help form new cells and sustain them. In this process, molecules of chemical substances that constitute food play two roles; first, they contain energy that can be transformed for biological chemical reactions; second, they develop new molecular structures made up of biomolecules.
+
+The organisms responsible for the introduction of energy into an ecosystem are known as producers or autotrophs. Nearly all of these organisms originally draw energy from the sun. Plants and other phototrophs use solar energy via a process known as photosynthesis to convert raw materials into organic molecules, such as ATP, whose bonds can be broken to release energy. A few ecosystems, however, depend entirely on energy extracted by chemotrophs from methane, sulfides, or other non-luminal energy sources.
+
+Some of the captured energy is used to produce biomass to sustain life and provide energy for growth and development. The majority of the rest of this energy is lost as heat and waste molecules. The most important processes for converting the energy trapped in chemical substances into energy useful to sustain life are metabolism and cellular respiration.
+
+Molecular biology is the study of biology at a molecular level. This field overlaps with other areas of biology, particularly with genetics and biochemistry. Molecular biology chiefly concerns itself with understanding the interactions between the various systems of a cell, including the interrelationship of DNA, RNA, and protein synthesis and learning how these interactions are regulated.
+
+Cell biology studies the structural and physiological properties of cells, including their behaviors, interactions, and environment. This is done on both the microscopic and molecular levels, for unicellular organisms such as bacteria, as well as the specialized cells in multicellular organisms such as humans. Understanding the structure and function of cells is fundamental to all of the biological sciences. The similarities and differences between cell types are particularly relevant to molecular biology.
+
+Anatomy considers the forms of macroscopic structures such as organs and organ systems.
+
+Genetics is the science of genes, heredity, and the variation of organisms. Genes encode the information necessary for synthesizing proteins, which in turn play a central role in influencing the final phenotype of the organism. In modern research, genetics provides important tools in the investigation of the function of a particular gene, or the analysis of genetic interactions. Within organisms, genetic information generally is carried in chromosomes, where it is represented in the chemical structure of particular DNA molecules.
+
+Developmental biology studies the process by which organisms grow and develop. Originating in embryology, modern developmental biology studies the genetic control of cell growth, differentiation, and "morphogenesis," which is the process that progressively gives rise to tissues, organs, and anatomy. Model organisms for developmental biology include the round worm Caenorhabditis elegans, the fruit fly Drosophila melanogaster, the zebrafish Danio rerio, the mouse Mus musculus, and the weed Arabidopsis thaliana. 
+
+Physiology studies the mechanical, physical, and biochemical processes of living organisms by attempting to understand how all of the structures function as a whole. The theme of "structure to function" is central to biology. Physiological studies have traditionally been divided into plant physiology and animal physiology, but some principles of physiology are universal, no matter what particular organism is being studied. For example, what is learned about the physiology of yeast cells can also apply to human cells. The field of animal physiology extends the tools and methods of human physiology to non-human species. Plant physiology borrows techniques from both research fields.
+
+Physiology studies how for example nervous, immune, endocrine, respiratory, and circulatory systems, function and interact. The study of these systems is shared with medically oriented disciplines such as neurology and immunology.
+
+Evolutionary research is concerned with the origin and descent of species, as well as their change over time, and includes scientists from many taxonomically oriented disciplines. For example, it generally involves scientists who have special training in particular organisms such as mammalogy, ornithology, botany, or herpetology, but use those organisms as systems to answer general questions about evolution.
+
+Evolutionary biology is partly based on paleontology, which uses the fossil record to answer questions about the mode and tempo of evolution, and partly on the developments in areas such as population genetics. In the 1980s, developmental biology re-entered evolutionary biology from its initial exclusion from the modern synthesis through the study of evolutionary developmental biology. Related fields often considered part of evolutionary biology are phylogenetics, systematics, and taxonomy.
+
+Multiple speciation events create a tree structured system of relationships between species. The role of systematics is to study these relationships and thus the differences and similarities between species and groups of species. However, systematics was an active field of research long before evolutionary thinking was common.
+
+Traditionally, living things have been divided into five kingdoms: Monera; Protista; Fungi; Plantae; Animalia. However, many scientists now consider this five-kingdom system outdated. Modern alternative classification systems generally begin with the three-domain system: Archaea ; Bacteria  and Eukaryota  These domains reflect whether the cells have nuclei or not, as well as differences in the chemical composition of key biomolecules such as ribosomes.
+
+Further, each kingdom is broken down recursively until each species is separately classified. The order is: Domain; Kingdom; Phylum; Class; Order; Family; Genus; Species.
+
+Outside of these categories, there are obligate intracellular parasites that are "on the edge of life" in terms of metabolic activity, meaning that many scientists do not actually classify these structures as alive, due to their lack of at least one or more of the fundamental functions or characteristics that define life. They are classified as viruses, viroids, prions, or satellites.
+
+The scientific name of an organism is generated from its genus and species. For example, humans are listed as Homo sapiens. Homo is the genus, and sapiens the species. When writing the scientific name of an organism, it is proper to capitalize the first letter in the genus and put all of the species in lowercase. Additionally, the entire term may be italicized or underlined.
+
+The dominant classification system is called the Linnaean taxonomy. It includes ranks and binomial nomenclature. How organisms are named is governed by international agreements such as the International Code of Nomenclature for algae, fungi, and plants , the International Code of Zoological Nomenclature , and the International Code of Nomenclature of Bacteria . The classification of viruses, viroids, prions, and all other sub-viral agents that demonstrate biological characteristics is conducted by the International Committee on Taxonomy of Viruses  and is known as the International Code of Viral Classification and Nomenclature . However, several other viral classification systems do exist.
+
+A merging draft, BioCode, was published in 1997 in an attempt to standardize nomenclature in these three areas, but has yet to be formally adopted. The BioCode draft has received little attention since 1997; its originally planned implementation date of January 1, 2000, has passed unnoticed. A revised BioCode that, instead of replacing the existing codes, would provide a unified context for them, was proposed in 2011. However, the International Botanical Congress of 2011 declined to consider the BioCode proposal. The ICVCN remains outside the BioCode, which does not include viral classification.
+
+Animalia - Bos primigenius taurus
+
+Planta - Triticum
+
+Fungi - Morchella esculenta
+
+Stramenopila/Chromista - Fucus serratus
+
+Bacteria - Gemmatimonas aurantiaca 
+
+Archaea - Halobacteria
+
+Virus - Gamma phage
+
+Ecology studies the distribution and abundance of living organisms, and the interactions between organisms and their environment. The habitat of an organism can be described as the local abiotic factors such as climate and ecology, in addition to the other organisms and biotic factors that share its environment. One reason that biological systems can be difficult to study is that so many different interactions with other organisms and the environment are possible, even on small scales. A microscopic bacterium in a local sugar gradient is responding to its environment as much as a lion searching for food in the African savanna. For any species, behaviors can be co-operative, competitive, parasitic, or symbiotic. Matters become more complex when two or more species interact in an ecosystem.
+
+Ecological systems are studied at several different levels, from individuals and populations to ecosystems and the biosphere. The term population biology is often used interchangeably with population ecology, although population biology is more frequently used when studying diseases, viruses, and microbes, while population ecology is more commonly used when studying plants and animals. Ecology draws on many subdisciplines.
+
+Ethology studies animal behavior , and is sometimes considered a branch of zoology. Ethologists have been particularly concerned with the evolution of behavior and the understanding of behavior in terms of the theory of natural selection. In one sense, the first modern ethologist was Charles Darwin, whose book, The Expression of the Emotions in Man and Animals, influenced many ethologists to come.
+
+Biogeography studies the spatial distribution of organisms on the Earth, focusing on topics like plate tectonics, climate change, dispersal and migration, and cladistics.
+
+Despite the profound advances made over recent decades in our understanding of life's fundamental processes, some basic problems have remained unresolved. For example, one of the major unresolved problems in biology is the primary adaptive function of sex, and particularly its key processes in eukaryotes, meiosis and homologous recombination. One view is that sex evolved primarily as an adaptation for increasing genetic diversity . An alternative view is that sex is an adaptation for promoting accurate DNA repair in germ-line DNA, and that increased genetic diversity is primarily a byproduct that may be useful in the long run. .
+
+Another basic unresolved problem in biology is the biologic basis of aging. At present, there is no consensus view on the underlying cause of aging. Various competing theories are outlined in Ageing Theories.
+
+These are the main branches of biology:
+
+The life sciences comprise the fields of science that involve the scientific study of living organisms – such as microorganisms, plants, animals, and human beings – as well as related considerations like bioethics. While biology remains the centerpiece of the life sciences, technological advances in molecular biology and biotechnology have led to a burgeoning of specializations and interdisciplinary fields.
+
+Some life sciences focus on a specific type of life. For example, zoology is the study of animals, while botany is the study of plants. Other life sciences focus on aspects common to all or many life forms, such as anatomy and genetics. Yet other fields are interested in technological advances involving living things, such as bio-engineering. Another major, though more specific, branch of life sciences involves understanding the mind – neuroscience.
+
+The life sciences are helpful in improving the quality and standard of life. They have applications in health, agriculture, medicine, and the pharmaceutical and food science industries.
+
+There is considerable overlap between many of the topics of study in the life sciences.
+
+Biology – burst and eclectic field, composed of many branches and subdisciplines. However, despite the broad scope of biology, there are certain general and unifying concepts within it that govern all study and research, consolidating it into a single, coherent field. In general, biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, and evolution as the engine that propels the synthesis and creation of new species. It is also understood today that all organisms survive by consuming and transforming energy and by regulating their internal environment to maintain a stable and vital condition. Here are some of biology's major branches:
+
+Medicine – applied science or practice of the diagnosis, treatment, and prevention of disease. It encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness. Some of its branches are:
+
+Biology is a natural science concerned with the study of life and living organisms.
+
+Biology may also refer to:
+
+In biology, an organism is any contiguous living system, such as an animal, plant, fungus, archaeon, or bacterium. All known types of organisms are capable of some degree of response to stimuli, reproduction, growth and development and homeostasis. An organism consists of one or more cells; when it has one cell it is known as a unicellular organism; and when it has more than one it is known as a multicellular organism. Most unicellular organisms are of microscopic size and are thus classified as microorganisms. Humans are multicellular organisms composed of many trillions of cells grouped into specialized tissues and organs.
+
+An organism may be either a prokaryote or a eukaryote. Prokaryotes are represented by two separate domains, the Bacteria and Archaea. Eukaryotic organisms are characterized by the presence of a membrane-bound cell nucleus and contain additional membrane-bound compartments called organelles . Fungi, animals and plants are examples of kingdoms of organisms within the eukaryotes.
+
+Estimates on the number of Earth's current species range from 10 million to 14 million, of which only about 1.2 million have been documented. More than 99% of all species, amounting to over five billion species, that ever lived on Earth are estimated to be extinct. In July 2016, scientists reported identifying a set of 355 genes from the Last Universal Common Ancestor  of all organisms living on Earth.
+
+The term "organism"  first appeared in the English language in 1703 and took on its current definition by 1834 . It is directly related to the term "organization". There is a long tradition of defining organisms as self-organizing beings.
+
+There has been controversy about the best way to define the organism and indeed about whether or not such a definition is necessary. Several contributions are responses to the suggestion that the category of "organism" may well not be adequate in biology.
+
+The word organism may broadly be defined as an assembly of molecules functioning as a more or less stable whole that exhibits the properties of life. However, many sources propose definitions that exclude viruses and theoretically possible man-made non-organic life forms. Viruses are dependent on the biochemical machinery of a host cell for reproduction.
+
+Chambers Online Reference provides a broad definition: "any living structure, such as a plant, animal, fungus or bacterium, capable of growth and reproduction".
+
+In multicellular terms, "organism" usually describes the whole hierarchical assemblage of systems  themselves collections of organs; these are, in turn, collections of tissues, which are themselves made of cells. In some plants and the nematode Caenorhabditis elegans, individual cells are totipotent.
+
+A superorganism is an organism consisting of many individuals working together as a single functional or social unit.
+
+Viruses are not typically considered to be organisms because they are incapable of autonomous reproduction, growth or metabolism. This controversy is problematic because some cellular organisms are also incapable of independent survival  and live as obligatory intracellular parasites. Although viruses have a few enzymes and molecules characteristic of living organisms, they have no metabolism of their own; they cannot synthesize and organize the organic compounds from which they are formed. Naturally, this rules out autonomous reproduction: they can only be passively replicated by the machinery of the host cell. In this sense they are similar to inanimate matter. While viruses sustain no independent metabolism, and thus are usually not classified as organisms, they do have their own genes, and they do evolve by mechanisms similar to the evolutionary mechanisms of organisms.
+
+The most common argument in support of viruses as living organisms is their ability to undergo evolution and replicate through self-assembly. Some scientists argue that viruses neither evolve, nor self- reproduce. In fact, viruses are evolved by their host cells, meaning that there was co-evolution of viruses and host cells. If host cells did not exist, viral evolution would be impossible. This is not true for cells. If viruses did not exist, the direction of cellular evolution could be different, but cells would nevertheless be able to evolve. As for the reproduction, viruses totally rely on hosts' machinery to replicate. The discovery of viral megagenomes with genes coding for energy metabolism and protein synthesis fueled the debate about whether viruses belong in the tree of life. The presence of these genes suggested that viruses were once able to metabolize. However, it was found later that the genes coding for energy and protein metabolism have cellular origin. Most likely, these genes were acquired through horizontal gene transfer from viral hosts.
+
+All organisms are classified by the science of alpha taxonomy into either taxa or clades.
+
+Taxa are ranked groups of organisms, which run from the general  to the specific . A broad scheme of ranks in hierarchical order is:
+
+To give an example, Homo sapiens is the Latin binomial equating to modern "humans". All members of the species sapiens are, at least in theory, genetically able to interbreed. Several species may belong to a genus, but the members of different species within a genus are usually unable to interbreed to produce fertile offspring.  Homo only has one surviving species , Homo erectus, Homo neanderthalensis, etc. having become extinct thousands of years ago; some scientists argue for interbreeding between H. sapiens and H. neanderthalensis with fertile progeny. Several genera belong to the same family and so on up the hierarchy. Eventually, the relevant kingdom  is placed into one of the three domains depending upon certain genetic and structural characteristics.
+
+All living organisms known to science are given classification by this system such that the species within a particular family are more closely related and genetically similar than the species within a particular phylum.
+
+Since viruses are not living organisms, their classification is a challenging task. At first, viruses were classified according to their hosts: plant viruses, animal viruses, bacteriophages. Later, they were classified by the disease that they cause. For example, respiratory viruses, enterics. Now, viruses are classified based on the nucleic acid content, capsid symmetry and the presence or absence of the envelope.
+
+Organisms are complex chemical systems, organized in ways that promote reproduction and some measure of sustainability or survival. The same laws that govern non-living chemistry govern the chemical processes of life. It is generally the phenomena of entire organisms that determine their fitness to an environment and therefore the survivability of their DNA-based genes.
+
+Organisms clearly owe their origin, metabolism, and many other internal functions to chemical phenomena, especially the chemistry of large organic molecules. Organisms are complex systems of chemical compounds that, through interaction and environment, play a wide variety of roles.
+
+Organisms are semi-closed chemical systems. Although they are individual units of life , they are not closed to the environment around them. To operate they constantly take in and release energy. Autotrophs produce usable energy  using light from the sun or inorganic compounds while heterotrophs take in organic compounds from the environment.
+
+The primary chemical element in these compounds is carbon. The chemical properties of this element such as its great affinity for bonding with other small atoms, including other carbon atoms, and its small size making it capable of forming multiple bonds, make it ideal as the basis of organic life. It is able to form small three-atom compounds , as well as large chains of many thousands of atoms that can store data , hold cells together, and transmit information .
+
+Compounds that make up organisms may be divided into macromolecules and other, smaller molecules. The four groups of macromolecule are nucleic acids, proteins, carbohydrates and lipids. Nucleic acids  store genetic data as a sequence of nucleotides. The particular sequence of the four different types of nucleotides  dictate many characteristics that constitute the organism. The sequence is divided up into codons, each of which is a particular sequence of three nucleotides and corresponds to a particular amino acid. Thus a sequence of DNA codes for a particular protein that, due to the chemical properties of the amino acids it is made from, folds in a particular manner and so performs a particular function.
+
+These protein functions have been recognized:
+
+A bilayer of phospholipids makes up the membrane of cells that constitutes a barrier, containing everything within the cell and preventing compounds from freely passing into, and out of, the cell. Due to the selective permeability of the phospholipid membraine only specific compounds can pass through it. In some multicellular organisms they serve as a storage of energy and mediate communication between cells. Carbohydrates are more easily broken down than lipids and yield more energy to compare to lipids and proteins. In fact, carbohydrates are the number one source of energy for all living organisms.
+
+All organisms consist of monomeric units called cells; some contain a single cell  and others contain many units . Multicellular organisms are able to specialize cells to perform specific functions. A group of such cells is a tissue, and in animals these occur as four basic types, namely epithelium, nervous tissue, muscle tissue, and connective tissue. Several types of tissue work together in the form of an organ to produce a particular function . This pattern continues to a higher level with several organs functioning as an organ system to allow for reproduction, digestion, etc. Many multicellular organisms consist of several organ systems, which coordinate to allow for life.
+
+The cell theory, first developed in 1839 by Schleiden and Schwann, states that all organisms are composed of one or more cells; all cells come from preexisting cells; all vital functions of an organism occur within cells, and cells contain the hereditary information necessary for regulating cell functions and for transmitting information to the next generation of cells.
+
+There are two types of cells, eukaryotic and prokaryotic. Prokaryotic cells are usually singletons, while eukaryotic cells are usually found in multicellular organisms. Prokaryotic cells lack a nuclear membrane so DNA is unbound within the cell; eukaryotic cells have nuclear membranes.
+
+All cells, whether prokaryotic or eukaryotic, have a membrane, which envelops the cell, separates its interior from its environment, regulates what moves in and out, and maintains the electric potential of the cell. Inside the membrane, a salty cytoplasm takes up most of the cell volume. All cells possess DNA, the hereditary material of genes, and RNA, containing the information necessary to build various proteins such as enzymes, the cell's primary machinery. There are also other kinds of biomolecules in cells.
+
+All cells share several similar characteristics of:
+
+One of the basic parameters of an organism is its life span. Some organisms live as short as one day, while some plants and fungi can live thousands of years.
+
+The last universal common ancestor  is the most recent organism from which all organisms now living on Earth descend. Thus it is the most recent common ancestor of all current life on Earth. The LUCA is estimated to have lived some 3.5 to 3.8 billion years ago . The earliest evidences for life on Earth are graphite found to be biogenic in 3.7 billion-year-old metasedimentary rocks discovered in Western Greenland and microbial mat fossils found in 3.48 billion-year-old sandstone discovered in Western Australia. Although more than 99 percent of all species that ever lived on the planet are estimated to be extinct, there are currently 10–14 million species of life on Earth.
+
+Information about the early development of life includes input from many different fields, including geology and planetary science. These sciences provide information about the history of the Earth and the changes produced by life. However, a great deal of information about the early Earth has been destroyed by geological processes over the course of time.
+
+All organisms on Earth are descended from a common ancestor or ancestral gene pool. Evidence for common descent may be found in traits shared between all living organisms. In Darwin's day, the evidence of shared traits was based solely on visible observation of morphologic similarities, such as the fact that all birds have wings, even those that do not fly.
+
+Today, there is strong evidence from genetics that all organisms have a common ancestor. For example, every living cell makes use of nucleic acids as its genetic material, and uses the same twenty amino acids as the building blocks for proteins. All organisms use the same genetic code  to translate nucleic acid sequences into proteins. The universality of these traits strongly suggests common ancestry, because the selection of many of these traits seems arbitrary.
+
+In 2000, W. Ford Doolittle discussed variability in the genetic code  and suggested that horizontal gene transfer might make it difficult to study the last universal ancestor. In 2010, a formal mathematical test calculated from the genetic record , that the factor in favor of a common ancestor's existence is 10^2489.
+
+Sexual reproduction  is widespread among current eukaryotes. Dacks and Rogers proposed, on the basis of a phylogenetic analysis, that sex was present in the common ancestor of all eukaryotes. The finding of a core set of genes necessary for meiosis in the descendants of lineages that diverged early form the eukaryotic evolutionary tree also led Ramesh et al. and Malik et al. to suggest that sex was present in a common ancestor of all eukaryotes. Furthermore, this view is supported by evidence that eukaryotes previously regarded as "ancient asexuals", such as amoeba, were likely sexual in the past, and that most present day asexual amoeboid lineages likely arose recently and independently.
+
+In prokaryotes, natural bacterial transformation involves the transfer of DNA from one bacterium to another and integration of the donor DNA into the recipient chromosome by recombination. Natural bacterial transformation is considered to be a primitive sexual process and occurs in both bacteria and archaea, although it has been studied mainly in bacteria. Transformation is clearly a bacterial adaptation and not an accidental occurrence, because it depends on numerous gene products that specifically interact with each other to enter a state of natural competence to perform this complex process. Transformation is a common mode of DNA transfer, and over 60 prokaryotic species are known to be naturally competent for transformation.
+
+The chemical evolution from self-catalytic chemical reactions to life  is not a part of biological evolution, but it is unclear at which point such increasingly complex sets of reactions became what we would consider, today, to be living organisms.
+
+Little is known about the earliest developments in life. However, all existing organisms share certain traits, including cellular structure and genetic code. Most scientists interpret this to mean all existing organisms share a common ancestor, which had already developed the most fundamental cellular processes, but there is no scientific consensus on the relationship of the three domains of life  or the origin of life. Attempts to shed light on the earliest history of life generally focus on the behavior of macromolecules, particularly RNA, and the behavior of complex systems.
+
+The emergence of oxygenic photosynthesis  and the subsequent emergence of an oxygen-rich, non-reducing atmosphere can be traced through the formation of banded iron deposits, and later red beds of iron oxides. This was a necessary prerequisite for the development of aerobic cellular respiration, believed to have emerged around 2 billion years ago.
+
+In the last billion years, simple multicellular plants and animals began to appear in the oceans. Soon after the emergence of the first animals, the Cambrian explosion  saw the creation of all the major body plans, or phyla, of modern animals. This event is now believed to have been triggered by the development of the Hox genes. About 500 million years ago, plants and fungi colonized the land, and were soon followed by arthropods and other animals, leading to the development of today's land ecosystems.
+
+The evolutionary process may be exceedingly slow. Fossil evidence indicates that the diversity and complexity of modern life has developed over much of the history of the earth. Geological evidence indicates that the Earth is approximately 4.6 billion years old. Studies on guppies by David Reznick at the University of California, Riverside, however, have shown that the rate of evolution through natural selection can proceed 10 thousand to 10 million times faster than what is indicated in the fossil record. Such comparative studies however are invariably biased by disparities in the time scales over which evolutionary change is measured in the laboratory, field experiments, and the fossil record.
+
+The ancestry of living organisms has traditionally been reconstructed from morphology, but is increasingly supplemented with phylogenetics—the reconstruction of phylogenies by the comparison of genetic  sequence.
+
+Sequence comparisons suggest recent horizontal transfer of many genes among diverse species including across the boundaries of phylogenetic "domains". Thus determining the phylogenetic history of a species can not be done conclusively by determining evolutionary trees for single genes.
+
+Biologist Gogarten suggests "the original metaphor of a tree no longer fits the data from recent genome research", therefore "biologists  use the metaphor of a mosaic to describe the different histories combined in individual genomes and use  metaphor of a net to visualize the rich exchange and cooperative effects of HGT among microbes."
+
+In modern terms, the category of organism cloning refers to the procedure of creating a new multicellular organism, genetically identical to another. However, the techniques used in cloning have the potential of creating entirely new species of organisms. Organism cloning is the subject of much ethical debate. 
+
+In 2008 the J. Craig Venter Institute assembled a synthetic bacterial genome, Mycoplasma genitalium, by using recombination in yeast of 25 overlapping DNA fragments in a single step. The use of yeast recombination greatly simplifies the assembly of large DNA molecules from both synthetic and natural fragments. Other companies, such as Synthetic Genomics, have already been formed to take advantage of the many commercial uses of custom designed genomes.
+
+Bacillus coli communis Escherich 1885
+
+Escherichia coli  is a gram-negative, facultatively anaerobic, rod-shaped bacterium of the genus Escherichia that is commonly found in the lower intestine of warm-blooded organisms . Most E. coli strains are harmless, but some serotypes can cause serious food poisoning in their hosts, and are occasionally responsible for product recalls due to food contamination. The harmless strains are part of the normal flora of the gut, and can benefit their hosts by producing vitamin K2, and preventing colonization of the intestine with pathogenic bacteria. E. coli is expelled into the environment within fecal matter. The bacterium grows massively in fresh fecal matter under aerobic conditions for 3 days, but its numbers decline slowly afterwards.
+
+E. coli and other facultative anaerobes constitute about 0.1% of gut flora, and fecal–oral transmission is the major route through which pathogenic strains of the bacterium cause disease. Cells are able to survive outside the body for a limited amount of time, which makes them potential indicator organisms to test environmental samples for fecal contamination. A growing body of research, though, has examined environmentally persistent E. coli which can survive for extended periods outside of a host.
+
+The bacterium can be grown and cultured easily and inexpensively in a laboratory setting, and has been intensively investigated for over 60 years. E. coli is a chemoheterotroph whose chemically defined medium must include a source of carbon and energy. E. coli is the most widely studied prokaryotic model organism, and an important species in the fields of biotechnology and microbiology, where it has served as the host organism for the majority of work with recombinant DNA. Under favorable conditions, it takes only 20 minutes to reproduce.
+
+E. coli is a gram-negative, facultative anaerobic  and nonsporulating bacterium. Cells are typically rod-shaped, and are about 2.0 micrometers  long and 0.25–1.0 μm in diameter, with a cell volume of 0.6–0.7 μm3.
+
+E. coli stains gram-negative because its cell wall is composed of a thin peptidoglycan layer and an outer membrane. During the staining process, E. coli picks up the color of the counterstain safranin and stains pink. The outer membrane surrounding the cell wall provides a barrier to certain antibiotics such that E. coli is not damaged by penicillin.
+
+Strains that possess flagella are motile. The flagella have a peritrichous arrangement.
+
+E. coli can live on a wide variety of substrates and uses mixed-acid fermentation in anaerobic conditions, producing lactate, succinate, ethanol, acetate, and carbon dioxide. Since many pathways in mixed-acid fermentation produce hydrogen gas, these pathways require the levels of hydrogen to be low, as is the case when E. coli lives together with hydrogen-consuming organisms, such as methanogens or sulphate-reducing bacteria.
+
+Optimum growth of E. coli occurs at 37 °C , but some laboratory strains can multiply at temperatures of up to 49 °C . E. coli grows in a variety of defined laboratory media, such as lysogeny broth, or any medium that contains glucose, ammonium phosphate, mono basic, sodium chloride, magnesium sulfate, potassium phosphate, dibasic, and water. Growth can be driven by aerobic or anaerobic respiration, using a large variety of redox pairs, including the oxidation of pyruvic acid, formic acid, hydrogen, and amino acids, and the reduction of substrates such as oxygen, nitrate, fumarate, dimethyl sulfoxide, and trimethylamine N-oxide. E. coli is classified as a facultative anaerobe. It uses oxygen when it is present and available. It can however, continue to grow in the absence of oxygen using fermentation or anaerobic respiration. The ability to be able to continue growing in the absence of oxygen is an advantage to bacteria because their survival is increased in environments where water predominates.
+
+The bacterial cell cycle is divided into three stages. The B period occurs between the completion of cell division and the beginning of DNA replication. The C period encompasses the time it takes to replicate the chromosomal DNA. The D period refers to the stage between the conclusion of DNA replication and the end of cell division. The doubling rate of E. coli is higher when more nutrients are available. However, the length of the C and D periods do not change, even when the doubling time becomes less than the sum of the C and D periods. At the fastest growth rates, replication begins before the previous round of replication has completed, resulting in multiple replication forks along the DNA and overlapping cell cycles.
+
+Unlike eukaryotes, prokaryotes do not rely upon either changes in gene expression or changes in protein synthesis to control the cell cycle. This probably explains why they do not have similar proteins to those used by eukaryotes to control their cell cycle, such as cdk1. This has led to research on what the control mechanism is in prokaryotes. Recent evidence suggests that it may be membrane- or lipid-based.
+
+E. coli and related bacteria possess the ability to transfer DNA via bacterial conjugation or transduction, which allows genetic material to spread horizontally through an existing population. The process of transduction, which uses the bacterial virus called a bacteriophage, is where the spread of the gene encoding for the Shiga toxin from the Shigella bacteria to E. coli helped produce E. coli O157:H7, the Shiga toxin producing strain of E. coli.
+
+Escherichia coli encompasses an enormous population of bacteria that exhibit a very high degree of both genetic and phenotypic diversity. Genome sequencing of a large number of isolates of E. coli and related bacteria shows that a taxonomic reclassification would be desirable. However, this has not been done, largely due to its medical importance, and E. coli remains one of the most diverse bacterial species: only 20% of the genes in a typical E. coli genome is shared among all strains.
+
+In fact, from the evolutionary point of view, the members of genus Shigella  should be classified as E. coli strains, a phenomenon termed taxa in disguise. Similarly, other strains of E. coli  are sufficiently different that they would merit reclassification.
+
+A strain is a subgroup within the species that has unique characteristics that distinguish it from other strains. These differences are often detectable only at the molecular level; however, they may result in changes to the physiology or lifecycle of the bacterium. For example, a strain may gain pathogenic capacity, the ability to use a unique carbon source, the ability to take upon a particular ecological niche, or the ability to resist antimicrobial agents. Different strains of E. coli are often host-specific, making it possible to determine the source of fecal contamination in environmental samples. For example, knowing which E. coli strains are present in a water sample allows researchers to make assumptions about whether the contamination originated from a human, another mammal, or a bird.
+
+A common subdivision system of E. coli, but not based on evolutionary relatedness, is by serotype, which is based on major surface antigens , e.g. O157:H7). It is, however, common to cite only the serogroup, i.e. the O-antigen. At present, about 190 serogroups are known. The common laboratory strain has a mutation that prevents the formation of an O-antigen and is thus not typeable.
+
+Like all lifeforms, new strains of E. coli evolve through the natural biological processes of mutation, gene duplication, and horizontal gene transfer; in particular, 18% of the genome of the laboratory strain MG1655 was horizontally acquired since the divergence from Salmonella. E. coli K-12 and E. coli B strains are the most frequently used varieties for laboratory purposes. Some strains develop traits that can be harmful to a host animal. These virulent strains typically cause a bout of diarrhea that is unpleasant in healthy adults and is often lethal to children in the developing world. More virulent strains, such as O157:H7, cause serious illness or death in the elderly, the very young, or the immunocompromised.
+
+The genera Escherichia and Salmonella diverged around 102 million years ago  which coincides with the divergence of their hosts: the former being found in mammals and the latter in birds and reptiles. This was followed by a split of the escherichian ancestor into five species . The last E. coli ancestor split between 20 and 30 million years ago.
+
+The long-term evolution experiments using E. coli, begun by Richard Lenski in 1988, have allowed direct observation of major evolutionary shifts in the laboratory. In this experiment, one population of E. coli unexpectedly evolved the ability to aerobically metabolize citrate, which is extremely rare in E. coli. As the inability to grow aerobically is normally used as a diagnostic criterion with which to differentiate E. coli from other, closely related bacteria, such as Salmonella, this innovation may mark a speciation event observed in the laboratory.
+
+E. coli is the type species of the genus  and in turn Escherichia is the type genus of the family Enterobacteriaceae, where the family name does not stem from the genus Enterobacter + "i"  + "aceae", but from "enterobacterium" + "aceae" .
+
+The original strain described by Escherich is believed to be lost, consequently a new type strain  was chosen as a representative: the neotype strain is U5/41T, also known under the deposit names DSM 30083, ATCC 11775, and NCTC 9001, which is pathogenic to chickens and has an O1:K1:H7 serotype. However, in most studies, either O157:H7, K-12 MG1655, or K-12 W3110 were used as a representative E. coli. The genome of the type strain has only lately been sequenced. Particularly the use of whole genome sequences yields highly supported phylogenies. Based on such data, five subspecies of E. coli were distinguished.
+
+The link between phylogenetic distance  and pathology is small, e.g. the O157:H7 serotype strains, which form a clade —group E below—are all enterohaemorragic strains , but not all EHEC strains are closely related. In fact, four different species of Shigella are nested among E. coli strains , while E. albertii and E. fergusonii are outside of this group. Indeed, all Shigella species were placed within a single subspecies of E. coli in a phylogenomic study that included the type strain, and for this reason an according reclassification is difficult. All commonly used research strains of E. coli belong to group A and are derived mainly from Clifton's K-12 strain  and to a lesser degree from d'Herelle's Bacillus coli strain .
+
+Salmonella enterica
+
+E. albertii
+
+E. fergusonii
+
+E. coli SE15 
+
+E. coli E2348/69 
+
+E. coli ED1a O81 
+
+E. coliCFT083 
+
+E. coli APEC O1 (O1:K12:H7. APEC
+
+E. coli UTI89 O18:K1:H7. UPEC)
+
+E. coli S88 
+
+E. coli F11
+
+E. coli 536
+
+E. coli UMN026 
+
+E. coli 
+
+E. coli 
+
+E. coli EDL933 
+
+E. coli Sakai 
+
+E. coli EC4115 
+
+E. coli TW14359 
+
+Shigella dysenteriae
+
+Shigella sonnei
+
+Shigella boydii
+
+Shigella flexneri
+
+E. coli E24377A 
+
+E. coli E110019
+
+E. coli 11368 
+
+E. coli 11128 
+
+E. coli IAI1 O8 
+
+E. coli 53638 
+
+E. coli SE11 
+
+E. coli B7A
+
+E. coli 12009 
+
+E. coli GOS1  German 2011 outbreak
+
+E. coli E22
+
+E. coli Olso O103
+
+E. coli 55989 
+
+E. coli HS 
+
+E. coli ATCC8739 
+
+E. coli K-12 W3110 
+
+E. coli K-12 DH10b 
+
+E. coli K-12 DH1 
+
+E. coli K-12 MG1655 
+
+E. coli BW2952 
+
+E. coli 101-1 
+
+E. coli B REL606 
+
+E. coli BL21-DE3 
+
+The first complete DNA sequence of an E. coli genome  was published in 1997. It was found to be a circular DNA molecule 4.6 million base pairs in length, containing 4288 annotated protein-coding genes , seven ribosomal RNA  operons, and 86 transfer RNA  genes. Despite having been the subject of intensive genetic analysis for about 40 years, a large number of these genes were previously unknown. The coding density was found to be very high, with a mean distance between genes of only 118 base pairs. The genome was observed to contain a significant number of transposable genetic elements, repeat elements, cryptic prophages, and bacteriophage remnants.
+
+Today, several hundred complete genomic sequences of Escherichia and Shigella species are available. The genome sequence of the type strain of E. coli has been added to this collection not before 2014. Comparison of these sequences shows a remarkable amount of diversity; only about 20% of each genome represents sequences present in every one of the isolates, while around 80% of each genome can vary among isolates. Each individual genome contains between 4,000 and 5,500 genes, but the total number of different genes among all of the sequenced E. coli strains  exceeds 16,000. This very large variety of component genes has been interpreted to mean that two-thirds of the E. coli pangenome originated in other species and arrived through the process of horizontal gene transfer.
+
+Genes in E. coli are usually named by 4-letter acronyms that derive from their function . For instance, recA is named after its role in homologous recombination plus the letter A. Functionally related genes are named recB, recC, recD etc. The proteins are named by uppercase acronyms, e.g. RecA, RecB, etc. When the genome of E. coli was sequenced, all genes were numbered  in their order on the genome and abbreviated by b numbers, such as b2819  etc. The "b" names were created after Fred Blattner who led the genome sequence effort. Another numbering system was introduced with the sequence of another E. coli strain, W3110, which was sequenced in Japan and hence uses numbers starting by JW... , e.g. JW2787 . Hence, recD = b2819 = JW2787. Note, however, that most databases have their own numbering system, e.g. the EcoGene database uses EG10826 for recD. Finally, ECK numbers are specifically used for alleles in the MG1655 strain of E. coli K-12. Complete lists of genes and their synonyms can be obtained from databases such as EcoGene or Uniprot.
+
+Several studies have investigated the proteome of E. coli. By 2006, 1,627  of the 4,237 open reading frames  had been identified experimentally.
+
+The interactome of E. coli has been studied by affinity purification and mass spectrometry  and by analyzing the binary interactions among its proteins.
+
+Protein complexes. A 2006 study purified 4,339 proteins from cultures of strain K-12 and found interacting partners for 2,667 proteins, many of which had unknown functions at the time. A 2009 study found 5,993 interactions between proteins of the same E. coli strain, though these data showed little overlap with those of the 2006 publication.
+
+Binary interactions. Rajagopala et al.  have carried out systematic yeast two-hybrid screens with most E. coli proteins, and found a total of 2,234 protein-protein interactions. This study also integrated genetic interactions and protein structures and mapped 458 interactions within 227 protein complexes.
+
+E. coli belongs to a group of bacteria informally known as coliforms that are found in the gastrointestinal tract of warm-blooded animals. E. coli normally colonizes an infant's gastrointestinal tract within 40 hours of birth, arriving with food or water or from the individuals handling the child. In the bowel, E. coli adheres to the mucus of the large intestine. It is the primary facultative anaerobe of the human gastrointestinal tract.  As long as these bacteria do not acquire genetic elements encoding for virulence factors, they remain benign commensals.
+
+Nonpathogenic E. coli strain Nissle 1917, also known as Mutaflor, and E. coli O83:K24:H31  are used as probiotic agents in medicine, mainly for the treatment of various gastroenterological diseases, including inflammatory bowel disease.
+
+Most E. coli strains do not cause disease, but virulent strains can cause gastroenteritis, urinary tract infections, and neonatal meningitis. It can also be characterized by severe abdominal cramps, diarrhea that typically turns bloody within 24 hours, and sometimes fever. In rarer cases, virulent strains are also responsible for bowel necrosis  and perforation without progressing to hemolytic-uremic syndrome, peritonitis, mastitis, septicemia, and gram-negative pneumonia.
+
+There is one strain, E.coli #0157:H7, that produces the Shiga toxin . This toxin causes premature destruction of the red blood cells, which then clog the body's filtering system, the kidneys, causing hemolytic-uremic syndrome . This in turn causes strokes due to small clots of blood which lodge in capillaries in the brain. This causes the body parts controlled by this region of the brain not to work properly. In addition, this strain causes the buildup of fluid , leading to edema around the lungs and legs and arms. This increase in fluid buildup especially around the lungs impedes the functioning of the heart, causing an increase in blood pressure.
+
+Uropathogenic E. coli  is one of the main causes of urinary tract infections. It is part of the normal flora in the gut and can be introduced in many ways. In particular for females, the direction of wiping after defecation  can lead to fecal contamination of the urogenital orifices. Anal intercourse can also introduce this bacterium into the male urethra, and in switching from anal to vaginal intercourse, the male can also introduce UPEC to the female urogenital system. For more information, see the databases at the end of the article or UPEC pathogenicity.
+
+In May 2011, one E. coli strain, O104:H4, was the subject of a bacterial outbreak that began in Germany. Certain strains of E. coli are a major cause of foodborne illness. The outbreak started when several people in Germany were infected with enterohemorrhagic E. coli  bacteria, leading to hemolytic-uremic syndrome , a medical emergency that requires urgent treatment. The outbreak did not only concern Germany, but also 11 other countries, including regions in North America. On 30 June 2011, the German Bundesinstitut für Risikobewertung   announced that seeds of fenugreek from Egypt were likely the cause of the EHEC outbreak.
+
+The mainstay of treatment is the assessment of dehydration and replacement of fluid and electrolytes. Administration of antibiotics has been shown to shorten the course of illness and duration of excretion of enterotoxigenic E. coli  in adults in endemic areas and in traveller’s diarrhoea, though the rate of resistance to commonly used antibiotics is increasing and they are generally not recommended. The antibiotic used depends upon susceptibility patterns in the particular geographical region. Currently, the antibiotics of choice are fluoroquinolones or azithromycin, with an emerging role for rifaximin. Oral rifaximin, a semisynthetic rifamycin derivative, is an effective and well-tolerated antibacterial for the management of adults with non-invasive traveller’s diarrhoea. Rifaximin was significantly more effective than placebo and no less effective than ciprofloxacin in reducing the duration of diarrhoea. While rifaximin is effective in patients with E. coli-predominant traveller’s diarrhoea, it appears ineffective in patients infected with inflammatory or invasive enteropathogens.
+
+ETEC is the type of E. coli that most vaccine development efforts are focused on. Antibodies against the LT and major CFs of ETEC provide protection against LT-producing ETEC expressing homologous CFs. Oral inactivated vaccines consisting of toxin antigen and whole cells, i.e. the licensed recombinant cholera B subunit -WC cholera vaccine Dukoral have been developed. There are currently no licensed vaccines for ETEC, though several are in various stages of development. In different trials, the rCTB-WC cholera vaccine provided high  short-term protection. An oral ETEC vaccine candidate consisting of rCTB and formalin inactivated E. coli bacteria expressing major CFs has been shown in clinical trials to be safe, immunogenic, and effective against severe diarrhoea in American travelers but not against ETEC diarrhoea in young children in Egypt. A modified ETEC vaccine consisting of recombinant E. coli strains over expressing the major CFs and a more LT-like hybrid toxoid called LCTBA, are undergoing clinical testing. 
+
+Other proven prevention methods for E. coli transmission include handwashing and improved sanitation and drinking water, as transmission occurs through fecal contamination of food and water supplies.
+
+Because of its long history of laboratory culture and ease of manipulation, E. coli plays an important role in modern biological engineering and industrial microbiology. The work of Stanley Norman Cohen and Herbert Boyer in E. coli, using plasmids and restriction enzymes to create recombinant DNA, became a foundation of biotechnology.
+
+E. coli is a very versatile host for the production of heterologous proteins, and various protein expression systems have been developed which allow the production of recombinant proteins in E. coli. Researchers can introduce genes into the microbes using plasmids which permit high level expression of protein, and such protein may be mass-produced in industrial fermentation processes. One of the first useful applications of recombinant DNA technology was the manipulation of E. coli to produce human insulin.
+
+Many proteins previously thought difficult or impossible to be expressed in E. coli in folded form have been successfully expressed in E. coli. For example, proteins with multiple disulphide bonds may be produced in the periplasmic space or in the cytoplasm of mutants rendered sufficiently oxidizing to allow disulphide-bonds to form, while proteins requiring post-translational modification such as glycosylation for stability or function have been expressed using the N-linked glycosylation system of Campylobacter jejuni engineered into E. coli.
+
+Modified E. coli cells have been used in vaccine development, bioremediation, production of biofuels, lighting, and production of immobilised enzymes.
+
+E. coli is frequently used as a model organism in microbiology studies. Cultivated strains  are well-adapted to the laboratory environment, and, unlike wild-type strains, have lost their ability to thrive in the intestine. Many laboratory strains lose their ability to form biofilms. These features protect wild-type strains from antibodies and other chemical attacks, but require a large expenditure of energy and material resources.
+
+In 1946, Joshua Lederberg and Edward Tatum first described the phenomenon known as bacterial conjugation using E. coli as a model bacterium, and it remains the primary model to study conjugation. E. coli was an integral part of the first experiments to understand phage genetics, and early researchers, such as Seymour Benzer, used E. coli and phage T4 to understand the topography of gene structure. Prior to Benzer's research, it was not known whether the gene was a linear structure, or if it had a branching pattern.
+
+E. coli was one of the first organisms to have its genome sequenced; the complete genome of E. coli K12 was published by Science in 1997.
+
+By evaluating the possible combination of nanotechnologies with landscape ecology, complex habitat landscapes can be generated with details at the nanoscale. On such synthetic ecosystems, evolutionary experiments with E. coli have been performed to study the spatial biophysics of adaptation in an island biogeography on-chip.
+
+Studies are also being performed attempting to program E. coli to solve complicated mathematics problems, such as the Hamiltonian path problem.
+
+In 1885, the German-Austrian pediatrician Theodor Escherich discovered this organism in the feces of healthy individuals. He called it Bacterium coli commune because it is found in the colon. Early classifications of prokaryotes placed these in a handful of genera based on their shape and motility .
+
+Bacterium coli was the type species of the now invalid genus Bacterium when it was revealed that the former type species  was missing. Following a revision of Bacterium, it was reclassified as Bacillus coli by Migula in 1895 and later reclassified in the newly created genus Escherichia, named after its original discoverer.
+
