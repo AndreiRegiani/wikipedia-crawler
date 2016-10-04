@@ -1,5 +1,5 @@
 # wikipedia-crawler
-Extracts plain text from Wikipedia articles and saves to a local text file.
+Extracts plain-text from series of Wikipedia articles and saves to a local text file.
 
 The goal is to have text samples of a specific language on a specific topic, that can be used on computer analysis applied to linguistics (word frequency, distribution, etc), **or to generate wordlists of any language on Wikipedia (294 in total)**.
 
@@ -20,5 +20,5 @@ If the initial article is [Biology](https://en.wikipedia.org/wiki/Biology), the 
 * [BeautifulSoap 4](https://www.crummy.com/software/BeautifulSoup/)
 * [Requests](http://docs.python-requests.org/)
 
-    pip install beautifulsoup4
-    pip install requests
+`pip install beautifulsoup4`
+`pip install requests`
