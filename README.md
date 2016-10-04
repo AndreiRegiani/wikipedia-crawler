@@ -7,7 +7,7 @@ The goal is to have text samples of a specific language on a specific topic, tha
 
     python3 wikipedia-crawler.py https://en.wikipedia.org/wiki/Biology
 
-Creates `output.txt`, extracting only this unique article.
+Creates `output.txt`, extracting only this single article.
 
     python3 wikipedia-crawler.py https://en.wikipedia.org/wiki/Biology --articles=10 --interval=5 --output=biology.txt
 
@@ -20,5 +20,7 @@ If the initial article is [Biology](https://en.wikipedia.org/wiki/Biology), the 
 * [BeautifulSoap 4](https://www.crummy.com/software/BeautifulSoup/)
 * [Requests](http://docs.python-requests.org/)
 
-`pip install beautifulsoup4`
-`pip install requests`
+```
+pip install beautifulsoup4
+pip install requests
+```
