@@ -22,6 +22,5 @@ If the initial article is [Biology](https://en.wikipedia.org/wiki/Biology), the 
 * [Requests](http://docs.python-requests.org/)
 
 ```
-pip install beautifulsoup4
-pip install requests
+pip install -r requirements.txt
 ```
