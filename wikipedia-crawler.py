@@ -34,6 +34,11 @@ def scrap(base_url, article, output_file, session_file):
     """Represents one request per article"""
     full_url = base_url + article
     r = requests.get(full_url, headers={'User-Agent': USER_AGENT})
+    if r.status_code != 200:
+        print("Failed to request page (code {})".format(r.status_code))
+        input("Press [ENTER] to continue to the next request.")
+        return
+
     soup = BeautifulSoup(r.text, 'html.parser')
     content = soup.find('div', {'id':'mw-content-text'})
 
@@ -72,6 +77,7 @@ def scrap(base_url, article, output_file, session_file):
 
 def main(initial_url, articles_limit, interval, output_file):
     """ Main loop, single thread """
+    print("This session will take {} minutes".format(interval * articles_limit / 60))
     session_file = "session_" + output_file
     load_urls(session_file)  # load previous session (if any)
     base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(initial_url))
