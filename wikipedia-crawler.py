@@ -77,7 +77,7 @@ def scrap(base_url, article, output_file, session_file):
 
 def main(initial_url, articles_limit, interval, output_file):
     """ Main loop, single thread """
-    print("This session will take {} minutes".format(interval * articles_limit / 60))
+    print("This session will take {:.1f} minutes".format(interval * articles_limit / 60))
     session_file = "session_" + output_file
     load_urls(session_file)  # load previous session (if any)
     base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(initial_url))
@@ -89,7 +89,10 @@ def main(initial_url, articles_limit, interval, output_file):
         counter += 1
         if counter > articles_limit:
             break
-        next_url = pending_urls.pop(0)
+        try:
+            next_url = pending_urls.pop(0)
+        except IndexError:
+            break
         print("# {}/{:<8} {}".format(counter, articles_limit, next_url.replace('/wiki/', '')))
         scrap(base_url, next_url, output_file, session_file)
         time.sleep(interval)

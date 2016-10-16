@@ -9,13 +9,13 @@ python3 wikipedia-crawler.py https://en.wikipedia.org/wiki/Biology
 ```
 Generates `output.txt`, extracting only this single article. **Parameters to go crawling:**
 ```
---output=biology.txt --articles=10 --interval=5 
+--output=biology.txt --articles=10 --interval=5
 ```
 
 Generates [`biology.txt`](https://raw.githubusercontent.com/AndreiRegiani/wikipedia-crawler/master/example_output/biology_english.txt), crawling `10` articles related to `Biology`. Requests interval set to `5` seconds (default).
 Session log containing all visited URLs is saved as `session_biology.txt`. Running with the same output will use the same session file.
 
-In this example the initial article is [Biology](https://en.wikipedia.org/wiki/Biology), the crawler will continue extracting related pages: [Natural Science](https://en.wikipedia.org/wiki/Natural_science), [Organisms](https://en.wikipedia.org/wiki/Organims), [Evolution](https://en.wikipedia.org/wiki/Evolution), ...
+In this example the initial article is [Biology](https://en.wikipedia.org/wiki/Biology), the crawler will continue extracting related pages: [Natural Science](https://en.wikipedia.org/wiki/Natural_science), [Evolution](https://en.wikipedia.org/wiki/Evolution), ...
 
 ## Dependencies:
 * [BeautifulSoap 4](https://www.crummy.com/software/BeautifulSoup/)
