@@ -22,6 +22,7 @@ pending_urls = []  # queue
 
 def load_urls(session_file):
     """Resume previous session if any, load visited URLs"""
+
     try:
         with open(session_file) as fin:
             for line in fin:
@@ -32,9 +33,15 @@ def load_urls(session_file):
 
 def scrap(base_url, article, output_file, session_file):
     """Represents one request per article"""
+
     full_url = base_url + article
-    r = requests.get(full_url, headers={'User-Agent': USER_AGENT})
-    if r.status_code != 200:
+    try:
+        r = requests.get(full_url, headers={'User-Agent': USER_AGENT})
+    except requests.exceptions.ConnectionError:
+        print("Check your Internet connection")
+        input("Press [ENTER] to continue to the next request.")
+        return
+    if r.status_code not in (200, 404):
         print("Failed to request page (code {})".format(r.status_code))
         input("Press [ENTER] to continue to the next request.")
         return
@@ -61,6 +68,11 @@ def scrap(base_url, article, output_file, session_file):
             continue
         pending_urls.append(href)
 
+    # skip if already added text from this article, as continuing session
+    if full_url in visited_urls:
+        return
+    visited_urls.add(full_url)
+
     parenthesis_regex = re.compile('\(.+?\)')  # to remove parenthesis content
     citations_regex = re.compile('\[.+?\]')  # to remove citations, e.g. [1]
 
@@ -77,7 +89,9 @@ def scrap(base_url, article, output_file, session_file):
 
 def main(initial_url, articles_limit, interval, output_file):
     """ Main loop, single thread """
-    print("This session will take {:.1f} minutes".format(interval * articles_limit / 60))
+
+    minutes_estimate = interval * articles_limit / 60
+    print("This session will take {:.1f} minute(s) to download {} article(s):".format(minutes_estimate, articles_limit))
     session_file = "session_" + output_file
     load_urls(session_file)  # load previous session (if any)
     base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(initial_url))
@@ -93,7 +107,8 @@ def main(initial_url, articles_limit, interval, output_file):
             next_url = pending_urls.pop(0)
         except IndexError:
             break
-        print("# {}/{:<8} {}".format(counter, articles_limit, next_url.replace('/wiki/', '')))
+        article_format = next_url.replace('/wiki/', '')[:35]
+        print("{:<7} {}".format(counter, article_format))
         scrap(base_url, next_url, output_file, session_file)
         time.sleep(interval)
     print("Finished!")
