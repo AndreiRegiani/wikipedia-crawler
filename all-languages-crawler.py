@@ -10,7 +10,7 @@ with open('language-codes.txt') as fin:
 
 for lang in lang_codes:
     print("\nCrawling: {}".format(lang.upper()))
-    run = 'python3 wikipedia-crawler.py https://{0}.wikipedia.org/wiki/ --output={0}.txt --articles=5 --interval=3'.format(lang)
+    run = 'python3 wikipedia-crawler.py https://{0}.wikipedia.org/wiki/Special:Random --output={0}.txt --articles=50 --interval=2.5'.format(lang)
     os.system(run)
 
 print("\nALL LANGUAGES DONE!")
