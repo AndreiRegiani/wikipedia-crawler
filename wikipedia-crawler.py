@@ -92,6 +92,7 @@ def main(initial_url, articles_limit, interval, output_file):
 
     minutes_estimate = interval * articles_limit / 60
     print("This session will take {:.1f} minute(s) to download {} article(s):".format(minutes_estimate, articles_limit))
+    print("\t(Press CTRL+C to pause)\n")
     session_file = "session_" + output_file
     load_urls(session_file)  # load previous session (if any)
     base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(initial_url))
@@ -100,17 +101,23 @@ def main(initial_url, articles_limit, interval, output_file):
 
     counter = 0
     while len(pending_urls) > 0:
-        counter += 1
-        if counter > articles_limit:
-            break
         try:
-            next_url = pending_urls.pop(0)
-        except IndexError:
-            break
-        article_format = next_url.replace('/wiki/', '')[:35]
-        print("{:<7} {}".format(counter, article_format))
-        scrap(base_url, next_url, output_file, session_file)
-        time.sleep(interval)
+            counter += 1
+            if counter > articles_limit:
+                break
+            try:
+                next_url = pending_urls.pop(0)
+            except IndexError:
+                break
+
+            time.sleep(interval)
+            article_format = next_url.replace('/wiki/', '')[:35]
+            print("{:<7} {}".format(counter, article_format))
+            scrap(base_url, next_url, output_file, session_file)
+        except KeyboardInterrupt:
+            input("\n> PAUSED. Press [ENTER] to continue...\n")
+            counter -= 1
+
     print("Finished!")
     sys.exit(0)
 

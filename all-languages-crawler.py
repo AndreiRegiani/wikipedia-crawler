@@ -8,8 +8,8 @@ from 269 languages (language-codes.txt)
 
 import os
 
-ARTICLES = 10
-INTERVAL = 1.5
+ARTICLES = 100
+INTERVAL = 1.2
 
 lang_codes = set()
 with open('language-codes.txt') as fin:
