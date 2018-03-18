@@ -56,6 +56,8 @@ def scrap(base_url, article, output_file, session_file):
     # check if are actual articles URL
     for a in content.find_all('a'):
         href = a.get('href')
+        if not href:
+            continue
         if href[0:6] != '/wiki/':  # allow only article pages
             continue
         elif ':' in href:  # ignore special articles e.g. 'Special:'
