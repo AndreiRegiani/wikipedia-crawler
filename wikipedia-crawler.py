@@ -80,7 +80,7 @@ def scrap(base_url, article, output_file, session_file):
 
     # get plain text from each <p>
     p_list = content.find_all('p')
-    with open(output_file, 'a') as fout:
+    with open(output_file, 'a', encoding='utf-8') as fout:
         for p in p_list:
             text = p.get_text().strip()
             text = parenthesis_regex.sub('', text)
